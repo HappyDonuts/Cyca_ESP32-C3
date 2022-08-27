@@ -1,0 +1,59 @@
+Added Component: Designator=C1(CAPC2012X94N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL21B104KBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl21b104kbcnnnc/samsung-electro-mechanics?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/86a3eaf0882763ef32124d5901f9b833.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21B104KBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL21B104KBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21B104KBCNNNC?qs=349EhDEZ59pEfpnm5yBEmQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2012X94N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CC0805CRNPO9BN6R8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805CRNPO9BN6R8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805CRNPO9BN6R8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0805CRNPO9BN6R8?qs=5q%252BqlK8CmJQXpKtionjueA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6.8pF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC2012X94N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CC0805CRNPO9BN6R8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805CRNPO9BN6R8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805CRNPO9BN6R8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0805CRNPO9BN6R8?qs=5q%252BqlK8CmJQXpKtionjueA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6.8pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Add Pin To Net: Unknown Pin: Pin CN4-3
+Add Pin To Net: Unknown Pin: Pin CN4-4
+Add Pin To Net: Unknown Pin: Pin CN4-5
+Add Pin To Net: Unknown Pin: Pin CN4-6
+Add Pin To Net: Unknown Pin: Pin CN4-7
+Add Pin To Net: Unknown Pin: Pin CN4-8
+Add Pin To Net: Unknown Pin: Pin CN4-9
+Add Pin To Net: Unknown Pin: Pin CN4-10
+Add Pin To Net: Unknown Pin: Pin CN4-11
+Add Pin To Net: Unknown Pin: Pin CN4-12
+Add Pin To Net: Unknown Pin: Pin CN5-3
+Add Pin To Net: Unknown Pin: Pin CN5-4
+Add Pin To Net: Unknown Pin: Pin CN5-5
+Add Pin To Net: Unknown Pin: Pin CN5-6
+Add Pin To Net: Unknown Pin: Pin CN5-7
+Add Pin To Net: Unknown Pin: Pin CN5-8
+Add Pin To Net: Unknown Pin: Pin CN5-9
+Add Pin To Net: Unknown Pin: Pin CN5-10
+Add Pin To Net: Unknown Pin: Pin CN5-11
+Add Pin To Net: Unknown Pin: Pin CN5-12
+Added Member To Class: ClassName=main Member=Component C1 CL21B104KBCNNNC
+Added Member To Class: ClassName=main Member=Component C4 CC0805CRNPO9BN6R8
+Added Member To Class: ClassName=main Member=Component C5 CC0805CRNPO9BN6R8

@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=CN4 Old Footprint=CN_2PIN New Footprint=CN_12PIN
+Change Component Footprint: Designator=CN5 Old Footprint=CN_2PIN New Footprint=CN_12PIN
+Added Pin To Net: NetName=VCC Pin=CN4-3
+Added Pin To Net: NetName=GND Pin=CN4-4
+Added Pin To Net: NetName=TMS Pin=CN4-5
+Added Pin To Net: NetName=TDI Pin=CN4-6
+Added Pin To Net: NetName=TCK Pin=CN4-7
+Added Pin To Net: NetName=TDO Pin=CN4-8
+Added Pin To Net: NetName=GND Pin=CN4-9
+Added Pin To Net: NetName=IO10 Pin=CN4-10
+Added Pin To Net: NetName=IO8 Pin=CN4-11
+Added Pin To Net: NetName=GND Pin=CN4-12
+Added Pin To Net: NetName=VCC Pin=CN5-3
+Added Pin To Net: NetName=GND Pin=CN5-4
+Added Pin To Net: NetName=IO18 Pin=CN5-5
+Added Pin To Net: NetName=IO9 Pin=CN5-6
+Added Pin To Net: NetName=IO3 Pin=CN5-7
+Added Pin To Net: NetName=IO2 Pin=CN5-8
+Added Pin To Net: NetName=RST Pin=CN5-9
+Added Pin To Net: NetName=RX Pin=CN5-10
+Added Pin To Net: NetName=TX Pin=CN5-11
+Added Pin To Net: NetName=GND Pin=CN5-12
+Added Room: Name=main

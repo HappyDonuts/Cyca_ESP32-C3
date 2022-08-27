@@ -1,0 +1,18 @@
+Added Component: Designator=CN1(CN_2X3_1.27_BOX_TH)
+Added Component: Designator=CN6(CN_2X5_1.27_BOX_TH)
+Added Pin To Net: NetName=TX Pin=CN1-2
+Added Pin To Net: NetName=RX Pin=CN1-3
+Added Pin To Net: NetName=GND Pin=CN1-5
+Added Pin To Net: NetName=VCC Pin=CN1-6
+Added Pin To Net: NetName=VCC Pin=CN6-1
+Added Pin To Net: NetName=GND Pin=CN6-2
+Added Pin To Net: NetName=GND Pin=CN6-3
+Added Pin To Net: NetName=GND Pin=CN6-4
+Added Pin To Net: NetName=GND Pin=CN6-5
+Added Pin To Net: NetName=TDI Pin=CN6-7
+Added Pin To Net: NetName=TDO Pin=CN6-8
+Added Pin To Net: NetName=TCK Pin=CN6-9
+Added Pin To Net: NetName=TMS Pin=CN6-10
+Added Member To Class: ClassName=main Member=Component CN1 CN_2X3_1.27_BOX_1
+Added Member To Class: ClassName=main Member=Component CN6 CN_2X5_1.27_BOX
+Added Room: Name=main

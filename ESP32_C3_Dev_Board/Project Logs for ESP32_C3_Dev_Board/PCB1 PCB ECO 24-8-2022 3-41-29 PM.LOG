@@ -1,0 +1,84 @@
+Add Component: Footprint Not Found CAPC2012X135N
+Add Component: Footprint Not Found CAPC2012X94N
+Add Component: Footprint Not Found CAPC2012X94N
+Added Component: Designator=R1(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805fr-0710kl/yageo?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805FR-0710KL?qs=7bY8808IzHq6vrU3BeiiYw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805fr-0710kl/yageo?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805FR-0710KL?qs=7bY8808IzHq6vrU3BeiiYw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805fr-0710kl/yageo?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805FR-0710KL?qs=7bY8808IzHq6vrU3BeiiYw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805fr-0710kl/yageo?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805FR-0710KL?qs=7bY8808IzHq6vrU3BeiiYw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin CN4-3
+Add Pin To Net: Unknown Pin: Pin CN4-4
+Add Pin To Net: Unknown Pin: Pin CN4-5
+Add Pin To Net: Unknown Pin: Pin CN4-6
+Add Pin To Net: Unknown Pin: Pin CN4-7
+Add Pin To Net: Unknown Pin: Pin CN4-8
+Add Pin To Net: Unknown Pin: Pin CN4-9
+Add Pin To Net: Unknown Pin: Pin CN4-10
+Add Pin To Net: Unknown Pin: Pin CN4-11
+Add Pin To Net: Unknown Pin: Pin CN4-12
+Add Pin To Net: Unknown Pin: Pin CN5-3
+Add Pin To Net: Unknown Pin: Pin CN5-4
+Add Pin To Net: Unknown Pin: Pin CN5-5
+Add Pin To Net: Unknown Pin: Pin CN5-6
+Add Pin To Net: Unknown Pin: Pin CN5-7
+Add Pin To Net: Unknown Pin: Pin CN5-8
+Add Pin To Net: Unknown Pin: Pin CN5-9
+Add Pin To Net: Unknown Pin: Pin CN5-10
+Add Pin To Net: Unknown Pin: Pin CN5-11
+Add Pin To Net: Unknown Pin: Pin CN5-12
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=IO10 Pin=R1-2
+Added Pin To Net: NetName=IO8 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=RST Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=NetLD2_2 Pin=R5-1
+Added Pin To Net: NetName=IO19 Pin=R5-2
+Add Class Member: Failed to add class member : Component C1 CL21A106MQFNNNE
+Add Class Member: Failed to add class member : Component C4 CC0805CRNPO9BN6R8
+Add Class Member: Failed to add class member : Component C5 CC0805CRNPO9BN6R8
+Added Member To Class: ClassName=main Member=Component R1 RC0805FR-0710KL
+Added Member To Class: ClassName=main Member=Component R2 RC0805FR-0710KL
+Added Member To Class: ClassName=main Member=Component R3 RC0805FR-0710KL
+Added Member To Class: ClassName=main Member=Component R5 RC0805FR-0710KL
